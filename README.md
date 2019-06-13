@@ -1,5 +1,5 @@
 # wordnet-randomwalk-python
-Repository where we will add code used for WordNet random walk embedding experiments.
+Repository where we will add code used for WordNet random walk embedding experiments in Python.
 
 In the interim, feel free to contact us with any questions or concerns, we'll be happy to help or discuss the work. 
 
