@@ -45,7 +45,7 @@ Example command:
 
 If you wish to use the generated random walk pseudo-corpora to train embeddings, you can do so, using your preferred embedding system. We simply used an off the shelf [pytorch](https://pytorch.org) implementation.
 
-Our taxonomic embeddings, trained on the generated corpora provided above, can be downloaded [here](https://arrow.dit.ie/datas/12/)
+Our taxonomic embeddings, trained on the generated corpora provided above, can be downloaded [here](https://arrow.dit.ie/datas/12/).
 
 
 ### Word Similarity:
