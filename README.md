@@ -1,7 +1,7 @@
 
 # WordNet Random Walk in Python 
 
-# Using and understanding the provided scripts
+## Using and understanding the provided scripts
 
 
 ### Generate a random walk corpus:
@@ -22,7 +22,7 @@ Example command:
 
 `python wn_walk.py --size 1000 --unit token --direction down --min 2 --mwe yes --alpha 0.9 --output wn-corpus.1k.up.2ws.txt`
 
-You can download the various taxonomic random walk corpora that we generated for our work [here](https://arrow.dit.ie/datas/9/)
+You can download the various taxonomic random walk corpora that we generated for our work [here](https://arrow.dit.ie/datas/9/).
 
 
 ### Calculate basic corpus statistics:
