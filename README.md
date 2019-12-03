@@ -96,7 +96,7 @@ If you use any of the above code or data in your research, please cite the follo
   year="2019"
 }
 ```
-You can download the paper [here]().
+You can download the paper [here](https://arrow.dit.ie/cgi/viewcontent.cgi?article=1283&context=scschcomcon).
 
 ```
 @article{maldonado2019size,
