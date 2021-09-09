@@ -86,7 +86,23 @@ There you can also find similarity scores judged by humans, which allows you to 
 
 # Citation:
 
-If you use any of the above code or data in your research, please cite the following papers:
+If you use any of the above code or data in your research, please cite the following paper(s):
+
+```
+@inproceedings{klubicka-etal-2020-english,
+    title = "{E}nglish {W}ord{N}et Random Walk Pseudo-Corpora",
+    author = "Klubi{\v{c}}ka, Filip  and
+      Maldonado, Alfredo  and
+      Mahalunkar, Abhijit  and
+      Kelleher, John",
+    booktitle = "Proceedings of the 12th Language Resources and Evaluation Conference",
+    year = "2020",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2020.lrec-1.602",
+    pages = "4893--4902",
+}
+```
+You can download the paper [here](https://aclanthology.org/2020.lrec-1.602).
 
 ```
 @inproceedings{klubicka2019synthetic,
@@ -109,7 +125,7 @@ year="2019",
 doi="doi.org/10.1515/comp-2019-0009"
 }
 ```
-You can download the paper [here](https://www.degruyter.com/downloadpdf/j/comp.2019.9.issue-1/comp-2019-0009/comp-2019-0009.pdf).
+You can download the paper [here](https://www.degruyter.com/document/doi/10.1515/comp-2019-0009/html).
 
 
 # Licensing information:
