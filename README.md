@@ -91,15 +91,11 @@ If you use any of the above code or data in your research, please cite the follo
 ```
 @inproceedings{klubicka-etal-2020-english,
     title = "{E}nglish {W}ord{N}et Random Walk Pseudo-Corpora",
-    author = "Klubi{\v{c}}ka, Filip  and
-      Maldonado, Alfredo  and
-      Mahalunkar, Abhijit  and
-      Kelleher, John",
+    author = "Klubi{\v{c}}ka, Filip and Maldonado, Alfredo and Mahalunkar, Abhijit and Kelleher, John",
     booktitle = "Proceedings of the 12th Language Resources and Evaluation Conference",
     year = "2020",
     publisher = "European Language Resources Association",
-    url = "https://aclanthology.org/2020.lrec-1.602",
-    pages = "4893--4902",
+    url = "https://aclanthology.org/2020.lrec-1.602"
 }
 ```
 You can download the paper [here](https://aclanthology.org/2020.lrec-1.602).
