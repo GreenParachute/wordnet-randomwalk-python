@@ -123,6 +123,7 @@ doi="doi.org/10.1515/comp-2019-0009"
 ```
 You can download the paper [here](https://www.degruyter.com/document/doi/10.1515/comp-2019-0009/html).
 
+This work has been funded by a grant from Science Foundation Ireland: Grant Number 13/RC/2106.
 
 # Licensing information:
 
